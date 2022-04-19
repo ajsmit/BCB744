@@ -1,10 +1,10 @@
 ---
 title: "BCB744 content repository"
-author: 
+author:
 - name: AJ Smit
   affiliation: University of gthe Western Cape
   affiliation_url: https://uwc.ac.za
-date: 19 April 2022
+date: "19 April 2022"
 description: |
   Introduction to R and Biostatistics.
 site: distill::distill_website
