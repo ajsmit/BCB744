@@ -1,5 +1,5 @@
 ---
-title: "Graphics Exercises"
+title: "Descriptives Exercises"
 subtitle: ""  
 author: 
   - "AJ Smit"
