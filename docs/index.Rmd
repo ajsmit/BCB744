@@ -2,7 +2,7 @@
 title: "BCB744 content repository"
 author:
 - name: AJ Smit
-  affiliation: University of gthe Western Cape
+  affiliation: University of the Western Cape
   affiliation_url: https://uwc.ac.za
 date: "19 April 2022"
 description: |
